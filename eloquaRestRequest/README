@@ -1,0 +1,3 @@
+Eloqua REST API request class for PHP
+
+The ElqRestRequest class makes it easy to send HTTP requests to Eloqua's REST API.
